@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "anomo"]
+	path = anomo
+	url = https://github.com/cran/anomo
 [submodule "odr"]
 	path = odr
 	url = https://github.com/zuchaoshen/odr
