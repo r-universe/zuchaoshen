@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "anomo"]
 	path = anomo
-	url = https://github.com/cran/anomo
+	url = https://github.com/zuchaoshen/anomo
 [submodule "odr"]
 	path = odr
 	url = https://github.com/zuchaoshen/odr
